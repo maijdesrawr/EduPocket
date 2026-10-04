@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 100,
+            "server": "192.168.254.184",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "MySQL local",
+            "database": "centraldb",
+            "username": "root",
+            "password": "R@wrah",
+            "connectionTimeout": 30
+        }
+    ]
+}

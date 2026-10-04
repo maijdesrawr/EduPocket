@@ -1,0 +1,10 @@
+edupocket-config/database.php
+edupocket-config/security.php
+edupocket-config/master.key
+edupocket-backups/
+edupay/uploads/*
+!edupay/uploads/.gitkeep
+edupay/debug_*.txt
+*.sql
+*.bak
+
